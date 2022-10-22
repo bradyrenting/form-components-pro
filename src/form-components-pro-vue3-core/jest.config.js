@@ -1,7 +1,7 @@
 module.exports = {
     preset: 'ts-jest',
     transformIgnorePatterns: [
-        '/node_modules/(?!lib-to-transform|lodash-es|@protonemedia)'
+        '/node_modules/(?!lib-to-transform|lodash-es|@bradyrenting)'
     ],
     globals: {},
     testEnvironment: 'jsdom',

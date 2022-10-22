@@ -31,7 +31,7 @@
 </template>
 
 <script>
-import { Checkbox } from "@protonemedia/form-components-pro-vue3-core";
+import { Checkbox } from "@bradyrenting/form-components-pro-vue3-core";
 import Error from "./Error.vue";
 
 export default {

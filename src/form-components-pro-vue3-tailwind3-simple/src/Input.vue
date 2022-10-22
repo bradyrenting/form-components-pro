@@ -31,7 +31,7 @@
 </template>
 
 <script>
-import { Input } from "@protonemedia/form-components-pro-vue3-core";
+import { Input } from "@bradyrenting/form-components-pro-vue3-core";
 import Error from "./Error.vue";
 import Label from "./Label.vue";
 

@@ -47,7 +47,7 @@
 </template>
 
 <script>
-import { Submit } from "@protonemedia/form-components-pro-vue3-core";
+import { Submit } from "@bradyrenting/form-components-pro-vue3-core";
 
 export default Submit;
 </script>

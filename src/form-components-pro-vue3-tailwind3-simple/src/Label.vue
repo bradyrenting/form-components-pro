@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import { Label } from "@protonemedia/form-components-pro-vue3-core";
+import { Label } from "@bradyrenting/form-components-pro-vue3-core";
 
 export default Label;
 </script>

@@ -30,7 +30,7 @@
 </template>
 
 <script>
-import { Textarea } from "@protonemedia/form-components-pro-vue3-core";
+import { Textarea } from "@bradyrenting/form-components-pro-vue3-core";
 import Error from "./Error.vue";
 import Label from "./Label.vue";
 

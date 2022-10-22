@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import { Error } from "@protonemedia/form-components-pro-vue3-core";
+import { Error } from "@bradyrenting/form-components-pro-vue3-core";
 
 export default Error;
 </script>

@@ -1,3 +1,3 @@
 module.exports = {
-    transformIgnorePatterns: ['/node_modules/(?!lib-to-transform|lodash-es|@protonemedia)']
+    transformIgnorePatterns: ['/node_modules/(?!lib-to-transform|lodash-es|@bradyrenting)']
 }

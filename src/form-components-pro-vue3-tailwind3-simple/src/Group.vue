@@ -17,7 +17,7 @@
 </template>
 
 <script>
-import { Group } from "@protonemedia/form-components-pro-vue3-core";
+import { Group } from "@bradyrenting/form-components-pro-vue3-core";
 import Error from "./Error.vue";
 import Label from "./Label.vue";
 

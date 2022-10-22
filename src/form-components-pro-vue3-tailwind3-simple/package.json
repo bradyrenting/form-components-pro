@@ -50,7 +50,7 @@
     "vue": "^3.2.31"
   },
   "dependencies": {
-    "@protonemedia/form-components-pro-vue3-core": "^2.0.14",
+    "@bradyrenting/form-components-pro-vue3-core": "^2.0.14",
     "lodash-es": "^4.17.21"
   }
 }

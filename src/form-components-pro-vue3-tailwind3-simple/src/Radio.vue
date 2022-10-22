@@ -32,7 +32,7 @@
 </template>
 
 <script>
-import { Radio } from "@protonemedia/form-components-pro-vue3-core";
+import { Radio } from "@bradyrenting/form-components-pro-vue3-core";
 import Error from "./Error.vue";
 
 export default {
