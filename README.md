@@ -1,3 +1,5 @@
+**This is not the official package. This fork only provides support for Vite.**
+
 # Form Components Pro
 
 A set of Vue 3 components to rapidly build forms with Tailwind CSS 3. It supports validation, model binding, integrates with Autosize/Choices.js/Flatpickr, includes default vendor styling and is fully customizable! Even better in conjunction with Laravel Jetstream + Inertia.js.

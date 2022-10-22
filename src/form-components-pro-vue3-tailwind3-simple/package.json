@@ -1,5 +1,5 @@
 {
-  "name": "@protonemedia/form-components-pro-vue3-tailwind3-simple",
+  "name": "@bradyrenting/form-components-pro-vue3-tailwind3-simple",
   "version": "2.0.14",
   "description": "",
   "main": "dist/library.js",
@@ -9,7 +9,10 @@
     "src/*.styl",
     "dist/*"
   ],
-  "author": "Pascal Baljet <pascal@protone.media>",
+  "authors": [
+    "Pascal Baljet <pascal@protone.media>",
+    "Brady Renting <contact@bradyrenting.nl>"
+  ],
   "homepage": "https://github.com/protonemedia/form-components-pro",
   "private": false,
   "license": "MIT",
