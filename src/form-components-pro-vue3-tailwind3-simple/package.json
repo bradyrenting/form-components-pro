@@ -1,6 +1,6 @@
 {
   "name": "@bradyrenting/form-components-pro-vue3-tailwind3-simple",
-  "version": "2.0.14",
+  "version": "2.0.15",
   "description": "",
   "main": "dist/library.js",
   "module": "dist/library.mjs",
@@ -50,7 +50,7 @@
     "vue": "^3.2.31"
   },
   "dependencies": {
-    "@bradyrenting/form-components-pro-vue3-core": "^2.0.14",
+    "@bradyrenting/form-components-pro-vue3-core": "^2.0.15",
     "lodash-es": "^4.17.21"
   }
 }
