@@ -51,5 +51,6 @@
     "choices.js": "^10.0.0",
     "flatpickr": "^4.6.9",
     "lodash-es": "^4.17.21"
-  }
+  },
+  "gitHead": "99323345b2ada114c411fdaa4600ebd25869a354"
 }

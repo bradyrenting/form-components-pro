@@ -52,5 +52,6 @@
   "dependencies": {
     "@bradyrenting/form-components-pro-vue3-core": "^2.0.15",
     "lodash-es": "^4.17.21"
-  }
+  },
+  "gitHead": "99323345b2ada114c411fdaa4600ebd25869a354"
 }
